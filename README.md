@@ -3,7 +3,7 @@ Reference: https://hackernoon.com/creating-a-library-of-react-components-using-c
 
 ## Installation
 Run the following command:
-`npm install simple-component-library`
+`npm install mp-components`
 
 ## Publish to npm
 Run the following command:
